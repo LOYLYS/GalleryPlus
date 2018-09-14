@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Gallery Plus</string>
+    <string name="notify_loaded">files are loaded</string>
 </resources>

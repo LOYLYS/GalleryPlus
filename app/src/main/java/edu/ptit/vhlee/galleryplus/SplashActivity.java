@@ -13,7 +13,6 @@ public class SplashActivity extends AppCompatActivity {
         startActivity(getPhotoIntent(this));
         finish();
     }
-
     public static Intent getPhotoIntent(Context context) {
         Intent intent = new Intent(context, MainActivity.class);
         return intent;
